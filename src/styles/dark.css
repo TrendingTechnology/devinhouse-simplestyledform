@@ -1,0 +1,12 @@
+:root {
+  --cor-primaria: #ebc7d7;
+  --cor-secundaria: #abaac2;
+  --cor-confirmar: #7209b7;
+  --cor-cancelar: #fca311;
+  --cor-branco: rgb(29, 22, 121);
+  --cor-texto-padrao: #ececec;
+  --cor-background-claro: rgb(13, 10, 54);
+  --sombra-padrao: 1px 1px 3px rgba(255, 255, 255, 0.5);
+  --borda-padrao: 1px solid rgba(255, 255, 255, 0.55);
+  --borda-radius: 5px;
+}
